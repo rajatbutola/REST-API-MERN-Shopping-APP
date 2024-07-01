@@ -50,7 +50,7 @@ npm start
 # Usage
 After installing the dependencies and setting up the environment variables, you can start the development server using the above commands. The app will be available at http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
 
-# Contributors:
+# Contributors
 1. Chandni Akbar
 2. Rajat B
 
